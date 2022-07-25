@@ -1,2 +1,2 @@
 # kottans-frontend
-Kottans course
+Kottans Front-End Course
