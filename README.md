@@ -16,5 +16,10 @@ Screenshots from course "Introduction to Git and GitHub": [3 Week](https://githu
 <br>
 Коли почав вивчати git на learngitbranching то трохи захопився, тому пройшов повністю всі рівні ще на етапі 0. Basic (2). Багато інформації, команд...гадаю з більшою проктикою все вляжеться і стане трохи легше.
 
+## 3. Intro to HTML and CSS
+I have completed these three courses and I am very happy. I remembered in HTML and CSS, but I still need practice. Most of all I liked Browsersync with Node.js technology.
+[Learn HTML(Eng) and Learn CSS(Eng)](https://github.com/nilamop/kottans-frontend/blob/main/task_html_css_intro/Learn%20HTML(Eng)%20Learn%20CSS(Eng).JPG?raw=true)
+HTML, CSS, and Javascript for Web Developers[1 Week](https://github.com/nilamop/kottans-frontend/blob/main/task_html_css_intro/HTML,%20CSS,%20and%20Javascript%20for%20Web%20Developers%201.JPG?raw=true) and [2 Week](https://github.com/nilamop/kottans-frontend/blob/main/task_html_css_intro/HTML,%20CSS,%20and%20Javascript%20for%20Web%20Developers%202.JPG?raw=true)
+
 
 
