@@ -23,5 +23,6 @@ HTML, CSS, and Javascript for Web Developers [1 Week](https://github.com/nilamop
 
 ## 4. Responsive Web Design
 I was interested in getting to know responsive web design basics. But what is better to use in the future, grid or flex, I have not decided yet.
-
+<br>
+My done courses: 1) [FLEXBOX FROGGY](https://github.com/nilamop/kottans-frontend/blob/main/task_responsive_web_design/FLEXBOX%20FROGGY.JPG); 2) [GRID GARDEN](https://github.com/nilamop/kottans-frontend/blob/main/task_responsive_web_design/GRID%20GARDEN.JPG).
 
