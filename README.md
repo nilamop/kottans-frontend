@@ -21,5 +21,7 @@ I have completed these three courses and I am very happy. I remembered in HTML a
 [Learn HTML(Eng) and Learn CSS(Eng)](https://github.com/nilamop/kottans-frontend/blob/main/task_html_css_intro/Learn%20HTML(Eng)%20Learn%20CSS(Eng).JPG?raw=true)
 HTML, CSS, and Javascript for Web Developers [1 Week](https://github.com/nilamop/kottans-frontend/blob/main/task_html_css_intro/HTML,%20CSS,%20and%20Javascript%20for%20Web%20Developers%201.JPG?raw=true) and [2 Week](https://github.com/nilamop/kottans-frontend/blob/main/task_html_css_intro/HTML,%20CSS,%20and%20Javascript%20for%20Web%20Developers%202.JPG?raw=true)
 
+## 4. Responsive Web Design
+I was interested in getting to know responsive web design basics. But what is better to use in the future, grid or flex, I have not decided yet.
 
 
