@@ -28,6 +28,7 @@ My done courses: 1) [FLEXBOX FROGGY](https://github.com/nilamop/kottans-frontend
 
 ## 5. HTML & CSS Practice
 An interesting first experience in developing such interfaces. Reworked and corrected errors, I liked it very much.
+<br>
 My repo sourse: [Hooli Style Popup](https://github.com/nilamop/hooli-style-popup)
 
 ## 6. JS Basics
