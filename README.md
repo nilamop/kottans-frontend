@@ -32,3 +32,13 @@ My repo sourse: [Hooli Style Popup](https://github.com/nilamop/hooli-style-popup
 
 ## 6. JS Basics
 A long and difficult path in understanding the JavaScript syntax. I still have a lot to learn. In general, everything is clear. But the syntax with {} curly braces is a little strange (inconvenient) after the basic knowledge of Python.
+<br>
+My progress report:
+* [Вступ до JS](https://github.com/nilamop/kottans-frontend/blob/main/task_js_basics/%D0%92%D1%81%D1%82%D1%83%D0%BF%20%D0%B4%D0%BE%20JS.JPG)
+* [Basic JavaScript](https://github.com/nilamop/kottans-frontend/blob/main/task_js_basics/Basic%20JavaScript.JPG)
+* [ES6 Challenges](https://github.com/nilamop/kottans-frontend/blob/main/task_js_basics/ES6%20Challenges.JPG)
+* [Basic Data Structures](https://github.com/nilamop/kottans-frontend/blob/main/task_js_basics/Basic%20Data%20Structures.JPG)
+* [Basic Algorithm Scripting](https://github.com/nilamop/kottans-frontend/blob/main/task_js_basics/Basic%20Algorithm%20Scripting.JPG)
+* [Functional Programming](https://github.com/nilamop/kottans-frontend/blob/main/task_js_basics/Functional%20Programming.JPG)
+* [Algorithm Scripting Challenges](https://github.com/nilamop/kottans-frontend/blob/main/task_js_basics/Intermediate%20Algorithm%20Scripting(Algorithm%20Scripting%20Challenges).JPG)
+
