@@ -26,3 +26,7 @@ I was interested in getting to know responsive web design basics. But what is be
 <br>
 My done courses: 1) [FLEXBOX FROGGY](https://github.com/nilamop/kottans-frontend/blob/main/task_responsive_web_design/FLEXBOX%20FROGGY.JPG); 2) [GRID GARDEN](https://github.com/nilamop/kottans-frontend/blob/main/task_responsive_web_design/GRID%20GARDEN.JPG).
 
+## 5. HTML & CSS Practice
+An interesting first experience in developing such interfaces. Reworked and corrected errors, I liked it very much.
+My repo sourse: [Hooli Style Popup](https://github.com/nilamop/hooli-style-popup)
+
